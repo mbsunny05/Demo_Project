@@ -1,3 +1,3 @@
 # new
-new repo from local machine
+New repo from local machine
 created by Mayur Bachhav. 
